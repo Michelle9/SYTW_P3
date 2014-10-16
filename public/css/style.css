@@ -1,0 +1,26 @@
+body{
+ background:linear-gradient(to right, #3D7EAA, #FFE47A); 
+}
+
+#contenido{
+	background:#616161;
+	border:solid;
+	border-radius:5px;
+	width:400px;
+	height:60px;
+	margin:auto;
+	margin-top:150px;
+	text-align:center;
+	font-size:30px;
+	padding-top:10px;
+	
+}
+
+
+#footer{
+  width:700px;
+  text-align:center;
+  margin-top:500px;
+  margin:auto;
+  padding-top:100px;
+}
