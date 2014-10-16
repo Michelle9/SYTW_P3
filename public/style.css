@@ -1,0 +1,21 @@
+body{
+ background:linear-gradient(to right, #3D7EAA, #FFE47A); 
+}
+
+#contenido{
+	background:#616161;
+	border:solid;
+	border-radius:5px;
+	width:500px;
+	height:100px;
+	margin:auto;
+	margin-top:50px;
+	
+}
+
+#footer{
+  width:700px;
+  text-align:center;
+  margin-top:200px;
+  margin:auto;
+}

@@ -19,7 +19,8 @@ enable :sessions
 set :session_secret, '*&(^#234a)'
 
 get '/' do
-  %Q|<a href='/auth/google_oauth2'>Sign in with Google</a>|
+  erb:index
+  #%Q|<a href='/auth/google_oauth2'>Sign in with Google</a>|
 end
 
 get '/auth/:name/callback' do
@@ -34,5 +35,5 @@ get '/auth/:name/callback' do
   #PP.pp @auth
   #puts "*************@auth.methods*****************"
   #PP.pp @auth.methods.sort
-  erb :index
+  erb :respuesta
 end

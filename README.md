@@ -14,3 +14,13 @@ Note the *Client ID* and the *Client Secret*.
 For more details, read the Google docs: 
 
 [https://developers.google.com/accounts/docs/OAuth2](https://developers.google.com/accounts/docs/OAuth2)
+
+---------
+
+## Heroku
+
+[Práctica](http://afternoon-shelf-5472.herokuapp.com/)
+
+---------
+
+## Jhoanmary Pérez Fariña
